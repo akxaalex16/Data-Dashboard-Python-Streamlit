@@ -2,11 +2,11 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-'''
-NOTE:
-STREAMLIT DOC
-https://docs.streamlit.io/get-started/fundamentals/main-concepts
-'''
+
+# NOTE:
+# STREAMLIT DOC
+# https://docs.streamlit.io/get-started/fundamentals/main-concepts
+
 
 st.title('Simple Data Dashboard')
 
